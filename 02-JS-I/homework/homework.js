@@ -250,12 +250,12 @@ function esVocal(letra) {
     letra == "o" ||
     letra == "u"
   ) {
-    return "Es Vocal";
+    return "Es vocal";
   }
   if (letra.length > 1) {
-    return "Dato Incorrecto";
+    return "Dato incorrecto";
   }
-  return "Dato Incorrecto";
+  return "Dato incorrecto";
 }
 
 // No modificar nada debajo de esta línea
