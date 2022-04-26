@@ -1,0 +1,267 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+header h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  font-size: 50px;
+  font-style: italic;
+  color: rgb(16, 71, 119);
+}
+
+#img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+#img2 {
+  background-color: rgba(96, 15, 109, 0.845);
+  width: 1000px;
+  height: 280px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#im1 {
+  width: 3px;
+  height: 160px;
+  position: relative;
+  left: 60%;
+}
+
+#im2 {
+  width: 130px;
+  height: 160px;
+  position: relative;
+  left: 70%;
+}
+
+#grupoh {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  color: aliceblue;
+}
+
+#estudio {
+  width: 380px;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  font-size: 150%;
+  color: rgb(16, 71, 119);
+  position: relative;
+  left: 15%;
+  margin-bottom: 30px;
+}
+
+a {
+  color: rgb(16, 71, 119);
+}
+
+#descripcionPersonal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(16, 71, 119);
+  margin-bottom: 30px;
+}
+
+#descripcionPersonal h2 {
+  font-size: 35px;
+}
+
+#descripcionPersonal h3 {
+  width: 1000px;
+  text-align: justify;
+}
+
+#educacion {
+  margin-bottom: 30px;
+  color: rgb(16, 71, 119);
+}
+
+#educacion2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#educacion h2 {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+#educacion ul {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+}
+
+#colegio {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  margin-bottom: 30px;
+  position: relative;
+  left: 15%;
+  font-size: 20px;
+}
+
+#estudioSuperior {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  position: relative;
+  left: 15%;
+  font-size: 20px;
+}
+
+#exper {
+  color: rgb(16, 71, 119);
+  margin-bottom: 30px;
+}
+
+#experienciaLaboral {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+#experienciaLaboral h2 {
+  font-size: 35px;
+}
+
+#emp1 {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  position: relative;
+  left: 13.5%;
+  margin-bottom: 30px;
+}
+
+#emp1 ul {
+  position: relative;
+  left: 1%;
+}
+
+#emp2 {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  position: relative;
+  left: 13.5%;
+  margin-bottom: 30px;
+}
+
+#emp2 ul {
+  position: relative;
+  left: 1%;
+}
+
+#emp3 {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  position: relative;
+  left: 13.5%;
+  margin-bottom: 30px;
+}
+
+#emp3 ul {
+  position: relative;
+  left: 1%;
+}
+
+#emp4 {
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  position: relative;
+  left: 13.5%;
+}
+
+#emp4 ul {
+  position: relative;
+  left: 1%;
+}
+
+#skills {
+  margin-bottom: 30px;
+  color: rgb(16, 71, 119);
+}
+
+#tskills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#tskills h2 {
+  width: fit-content;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+#skills ul {
+  position: relative;
+  left: 14.5%;
+}
+
+#hobbies {
+  color: rgb(16, 71, 119);
+  margin-bottom: 30px;
+}
+
+#thobbies {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+#thobbies h2 {
+  font-size: 35px;
+}
+
+#hobbies ul {
+  position: relative;
+  left: 14.5%;
+}
+
+#exHenry {
+  color: rgb(16, 71, 119);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#exHenry h2 {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+#exHenry h3 {
+  width: 1000px;
+  text-align: justify;
+}
